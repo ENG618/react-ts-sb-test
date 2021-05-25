@@ -26,7 +26,7 @@ class App extends Component<AppProps, AppState> {
         <p>
           From Eric Garcia!
         </p>
-
+        <Hello name="Eric" />
       </div>
     );
   }
